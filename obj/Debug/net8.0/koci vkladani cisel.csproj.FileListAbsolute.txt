@@ -1,0 +1,14 @@
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\bin\Debug\net8.0\koci vkladani cisel.exe
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\bin\Debug\net8.0\koci vkladani cisel.deps.json
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\bin\Debug\net8.0\koci vkladani cisel.runtimeconfig.json
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\bin\Debug\net8.0\koci vkladani cisel.dll
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\bin\Debug\net8.0\koci vkladani cisel.pdb
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.AssemblyInfoInputs.cache
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.AssemblyInfo.cs
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.csproj.CoreCompileInputs.cache
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.dll
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\refint\koci vkladani cisel.dll
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.pdb
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\koci vkladani cisel.genruntimeconfig.cache
+C:\Users\jakub.koci.023\source\repos\koci vkladani cisel\obj\Debug\net8.0\ref\koci vkladani cisel.dll
